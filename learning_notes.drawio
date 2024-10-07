@@ -1,9 +1,138 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="WBgc0bWdAwlsuYIasJ8m">
-    <mxGraphModel>
+    <mxGraphModel dx="2118" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-2" target="ZGTvSv42EcdIvS5KDxPC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-2" target="ZGTvSv42EcdIvS5KDxPC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-2" value="Supervised Learning Models" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-13" value="Other Supervised Learning Models" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-14" target="ZGTvSv42EcdIvS5KDxPC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-14" target="ZGTvSv42EcdIvS5KDxPC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-14" target="ZGTvSv42EcdIvS5KDxPC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-14" target="ZGTvSv42EcdIvS5KDxPC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-14" value="Neural Networks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-17" target="ZGTvSv42EcdIvS5KDxPC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-17" value="Multi-Layer Perceptrons&lt;div&gt;(MLP)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-18" target="ZGTvSv42EcdIvS5KDxPC-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-18" value="Convolutional Neural Networks&lt;div&gt;(CNN)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-19" target="ZGTvSv42EcdIvS5KDxPC-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-19" value="Recurrent Neural Networks&lt;div&gt;(RNN)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-20" target="ZGTvSv42EcdIvS5KDxPC-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-20" value="Long Short-Term Memory&lt;div&gt;(LSTM)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-26" target="ZGTvSv42EcdIvS5KDxPC-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-26" value="Basic feedforward neural networks" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-27" value="Specialised for image processing tasks" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-28" value="A type of RNN that can learn long-term dependencies" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-29" value="Suitable for sequential data, like time series or natural language processing" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-34" value="Unsupervised Learning Models" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-35" target="ZGTvSv42EcdIvS5KDxPC-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-35" value="Semi-Supervised Learning Models" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-36" value="Generative Adversarial Networks&lt;div&gt;(GANs)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-37" value="Reinforcement Learning Models" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-38" value="Ensemble Learning Models" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-39" value="Transfer Learning Models" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120.5" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-40" target="ZGTvSv42EcdIvS5KDxPC-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-40" value="Deep Learning Models" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-42" value="They are a subset of neural networks with Multiple layers" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-45" target="ZGTvSv42EcdIvS5KDxPC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-45" target="ZGTvSv42EcdIvS5KDxPC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-45" target="ZGTvSv42EcdIvS5KDxPC-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-45" target="ZGTvSv42EcdIvS5KDxPC-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-45" target="ZGTvSv42EcdIvS5KDxPC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-45" target="ZGTvSv42EcdIvS5KDxPC-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-45" value="&lt;span style=&quot;font-size: 20px; font-weight: 700; text-align: left;&quot;&gt;Machine Learning Models&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-20" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-52" target="ZGTvSv42EcdIvS5KDxPC-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-52" value="PyTorch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-54" target="ZGTvSv42EcdIvS5KDxPC-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-54" value="A tool for building and training ML models" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
