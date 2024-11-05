@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="WBgc0bWdAwlsuYIasJ8m">
-    <mxGraphModel dx="2118" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2001" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,6 +256,15 @@
         <mxCell id="ZGTvSv42EcdIvS5KDxPC-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-99" target="ZGTvSv42EcdIvS5KDxPC-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-99" target="ZGTvSv42EcdIvS5KDxPC-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-99" target="ZGTvSv42EcdIvS5KDxPC-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-99" target="ZGTvSv42EcdIvS5KDxPC-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZGTvSv42EcdIvS5KDxPC-99" value="Hugging Face" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1720" y="440" width="170" height="60" as="geometry" />
         </mxCell>
@@ -270,6 +279,11 @@
             <mxPoint x="1460" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-110" value="output" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZGTvSv42EcdIvS5KDxPC-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZGTvSv42EcdIvS5KDxPC-103" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;It&#39;s like cutting a sentence into individual pieces, such as words or characters, to make it easier to analyze&lt;/font&gt;&lt;/span&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="1">
           <mxGeometry x="1382.5" y="720" width="155" height="100" as="geometry" />
         </mxCell>
@@ -281,6 +295,27 @@
         </mxCell>
         <mxCell id="ZGTvSv42EcdIvS5KDxPC-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-107" target="ZGTvSv42EcdIvS5KDxPC-108">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-111" value="Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1633.75" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-112" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;a &quot;model&quot; refers to a pre-trained machine learning model that is designed for various natural language processing (NLP) tasks. Hugging Face provides a wide range of models that have been trained on large datasets and can be used for different tasks&lt;/font&gt;&lt;/span&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1557.5" y="720" width="272.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-111" target="ZGTvSv42EcdIvS5KDxPC-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-115" value="Datasets" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZGTvSv42EcdIvS5KDxPC-117" target="ZGTvSv42EcdIvS5KDxPC-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-117" value="Trainer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGTvSv42EcdIvS5KDxPC-118" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 12px;&quot;&gt;Hugging Face trainers offer a simplified approach to training generative AI models, making it easier to set up and run complex machine learning tasks.&amp;nbsp;&lt;/span&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2032.5" y="720" width="155" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
